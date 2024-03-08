@@ -1,0 +1,2 @@
+# MplusPasswordSecurityEnhancement
+擔任台灣大哥大網頁後端實習生期間，協助改善登入介面的密碼驗證流程
