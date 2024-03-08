@@ -11,8 +11,6 @@
 
 
 
-    ![螢幕擷取畫面 2024-03-08 215219](https://hackmd.io/_uploads/H1mLOqu66.png)
-    ![螢幕擷取畫面 2024-03-08 215504](https://hackmd.io/_uploads/HkyRO9_a6.png)
 
 
 
